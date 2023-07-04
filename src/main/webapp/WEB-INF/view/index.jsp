@@ -2,10 +2,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
- <link rel="stylesheet" href="css/login.css">
+ <link rel="stylesheet" type="text/css" href="/css/login.css"/>
 <title>Insert title here</title>
 </head>
 <body>
-hi
+<p>this is test</p>
 </body>
 </html>
