@@ -10,6 +10,7 @@ public class UserPage {
 	
 	@GetMapping("/login")
 	public String user() {
+		System.out.println("run properly");
 		return "index";
 	}
 
