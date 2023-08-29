@@ -1,11 +1,30 @@
 @charset "ISO-8859-1";
 
 body {
-  background-color: powderblue;
+  background-color: rgb(78, 198, 214) !important;
 }
-h1 {
-  color: blue;
+.main {
+   background-color: rgb(50, 202, 101);
 }
-p {
-  color: red;
+.p2{
+  padding: 15px;
+  border: 2px solid !important;
+  border-color: aliceblue !important;
+}
+h1{
+  color:aliceblue
+}
+.second{
+  background-color: rgb(17, 145, 23);
+  height: 500px;
+}
+.third{
+  padding: 100px;
+}
+.container-login{
+
+  background-color: rgb(17, 83, 145);
+  height: auto;
+   weight:auto;
+
 }
